@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Bachelorarbeit
+
+  Created by JT X on 05.08.22.
+  
+*/
+"t0" = "Ich bin Spielleiter";
+"t1" = "Ich bin Mitspieler";
+"t2" = "Sprache";
+"t3" = "Willkommen";
+"t4" = "Benutzername";
+"t5" = "Geschlecht";
+"t6" = "Geburtsdatum";
+"t7" = "Muttersprache";
+"t8" = "Standort";
+"t9" = "Ich akzeptiere die Nutzungsbedingungen";
+"t10" = "Speichern";
+"t11" = "Überspringen";
+"t12" = "Suchen nach Mitspieler";
+"t13" = "Sitzungstitel";
+"t14" = "Ort";
+"t15" = "Datum";
+"t16" = "Erfolgreich verbunden";
+"t17" = "Warte auf den Spielleiter";
+"t18" = "privat";
+"t19" = "wichtig";
+"t20" = "Stoppen";
+"t21" = "stumm";
+"t22" = "Zeit";
+"t23" = "Regionale Herkunft";
+"t24" = "Zurück";
+"t25" = "Fertig";
+"t26" = "Persönliche Daten";
+"t27" = "Stadt";
+"t28" = "Land";
+"t29" = "bearbeiten";
+"t30" = "Ich bin";
+"t31" = "Spielleiter";
+"t32" = "Mitspieler";
+"t33" = "Suchen";
+"t34" = "🇩🇪";

@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Bachelorarbeit
+
+  Created by JT X on 05.08.22.
+  
+*/
+"t0" = "I am the Captain";
+"t1" = "I am a player";
+"t2" = "language";
+"t3" = "Welcome";
+"t4" = "Username";
+"t5" = "Gender";
+"t6" = "Date of birth";
+"t7" = "Mother tongue";
+"t8" = "location";
+"t9" = "I accept all ..";
+"t10" = "Save";
+"t11" = "Skip";
+"t12" = "Search for other players";
+"t13" = "Name of the Meeting";
+"t14" = "Place";
+"t15" = "Date";
+"t16" = "Successfully connected";
+"t17" = "Please wait for the host";
+"t18" = "Private";
+"t19" = "Important";
+"t20" = "Stop";
+"t21" = "Mute";
+"t22" = "Time";
+"t23" = "regional origin";
+"t24" = "cancel";
+"t25" = "done";
+"t26" = "Personal information";
+"t27" = "City";
+"t28" = "Country";
+"t29" = "Edit";
+"t30" = "I am";
+"t31" = "the captain";
+"t32" = "a player";
+"t33" = "Search";
+"t34" = "🇬🇧";
